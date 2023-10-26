@@ -17,7 +17,7 @@ Não desformates o documento.
 
 P1 - Resposta
 
-    resposta
+    resposta nova
 
 ### P2. Considera o seguinte código com um *bug*
 
